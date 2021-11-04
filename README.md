@@ -1,2 +1,2 @@
 # nlp study
-https://nlp100.github.io/ja/
+https://nlp100.github.io/
